@@ -3,7 +3,7 @@
 ###
 [中文文档入口](https://github.com/lzxb/flex.css/blob/master/docs/zh-ch.md)
 
-### download 1
+###  this is the best way to layout your web uis
 ```
 git clone https://github.com/lzxb/flex.css.git
 ```
